@@ -1,0 +1,5 @@
+<resources>
+    <!-- There is not much to translate - so this is left monolingual.        -->
+    <string name="app_name">Eratosthenes</string>
+    <string name="action_settings">Settings</string>
+</resources>
